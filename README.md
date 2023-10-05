@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Oumayma Gaiech.</h1> 
 <h3 align="center">Tunisian Software Engineering Student on a mission to learn and create. Join me on my journey of continuous skill acquisition and building amazing software! 🌟 </h3>
-<img align="right" alt="Coding" width="400" src="[https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm#query=female%20programmer&position=22&from_view=keyword&track=ais](https://www.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_14723886.htm)">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaGaiech" /> </p>
 - 🌱 I’m currently learning **DevOps**
 - 📫 How to reach me **oumayma.gaiech@esprit.tn**
