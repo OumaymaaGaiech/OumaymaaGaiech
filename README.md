@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Oumayma Gaiech.</h1> 
 <h3 align="center">Tunisian Software Engineering Student on a mission to learn and create. Join me on my journey of continuous skill acquisition and building amazing software! 🌟 </h3>
 <div>
+    <p > <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaaGaiech" /> </p>
   <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
 - 🔭 I’m currently working on **A marketplace application**
 
@@ -8,7 +9,7 @@
 
 - 📫 How to reach me **oumayma.gaiech@esprit.tn**
 - </div>
-  <p > <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaaGaiech" /> </p>
+
 
   <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OumaymaaGaiech" alt="OumaymaaGaiech" /></a> </p>
 
