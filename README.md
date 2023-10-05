@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Oumayma Gaiech</h1>
-<h3 align="center">Passionate software engineering student from Tunisia</h3>
+<h1 align="center">Hello 👋, I'm Oumayma Gaiech, a Tunisian Software Engineering Student on a mission to learn and create. Join me on my journey of continuous skill acquisition and building amazing software! 🌟 </h1>
+
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
 
 - 🔭 I’m currently working on **A marketplace application**
