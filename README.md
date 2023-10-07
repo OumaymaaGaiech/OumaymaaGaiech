@@ -75,6 +75,12 @@
    <a href="https://symfony.com/what-is-symfony" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="DotNet" width="40" height="40"/> </a>
 
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaymaaGaiech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OumaymaaGaiech" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OumaymaaGaiech&show_icons=true&locale=en&theme=tokyonight" alt="OumaymaaGaiech" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OumaymaaGaiech&&theme=tokyonight" alt="OumaymaaGaiech" /></p>
+
  
 </p>
 
