@@ -66,35 +66,6 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="Figma-Icon.png" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="React-Native-Icon.png" alt="react native" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="Node.js-Icon.png" alt="node.js" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="C++-Icon.png" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="MongoDB-Icon.png" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://symfony.com/" target="_blank" rel="noreferrer">
-    <img src="Symfony-Icon.png" alt="Symfony" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="Python-Icon.png" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src=".NET-Core-Icon.png" alt=".NET Core" width="40" height="40"/>
-  </a>
-  <a href="https://openjfx.io/" target="_blank" rel="noreferrer">
-    <img src="JavaFX-Icon.png" alt="JavaFX" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/technologies/pl-sql.html" target="_blank" rel="noreferrer">
-    <img src="PL-SQL-Icon.png" alt="PL/SQL" width="40" height="40"/>
-  </a>
+ 
 </p>
 
