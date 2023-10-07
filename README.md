@@ -73,7 +73,8 @@
    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://symfony.com/what-is-symfony" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/> </a>
-    
+  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="DotNet" width="40" height="40"/> </a>
+
  
 </p>
 
