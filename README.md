@@ -9,9 +9,8 @@ I am currently seeking my first professional opportunity, ready to leverage my s
 <p align="left">
 <a href="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" height="30" width="40" /></a>
 </p>
-- 🌱 I’m currently learning **DevOps**
 <br><br>
-- 📫 How to reach me **oumayma.gaiech@esprit.tn**
+- 📫 How to reach me **oumaima.gaiech@gmail.com**
 
 
 <h3 align="left">Achievements :</h3>
