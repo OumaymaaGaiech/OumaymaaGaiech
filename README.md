@@ -2,7 +2,7 @@
 
 ### Software Engineer | AI enthusiast
 
-[![Linkedin Badge](https://img.shields.io/badge/-Oumayma%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oumayma-gaiech/)](https://www.linkedin.com/in/oumayma-gaiech/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Oumayma%20Gaiech-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oumayma-gaiech/)](https://www.linkedin.com/in/oumayma-gaiech/) 
 
 
 Meu nome é Iuri Silva, ou “iuricode” (é como me chamam agora). Sou freelancer como Desenvolvedor Frontend e UI/UX Designer desde 2020. Sou extremamente apaixonado por café e cultura japonesa.
