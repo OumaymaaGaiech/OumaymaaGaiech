@@ -1,80 +1,15 @@
-<h1 align="center">Hello 👋, I'm Oumayma Gaiech.</h1> 
-<h3 align="center">A freshly graduated Software Engineer with a deep passion for Artificial Intelligence and innovation.
+# Iuri Silva
 
-I am currently seeking my first professional opportunity, ready to leverage my strong foundation in software engineering and my growing expertise in AI. My goal is to develop innovative web or mobile applications that harness the power of AI while delivering captivating UX/UI designs.🌟 </h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
-<br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaGaiech" /> </p>
-<h3 align="left">Keep In Touch With Me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" height="30" width="40" /></a>
-</p>
-<br><br>
-- 📫 How to reach me **oumaima.gaiech@gmail.com**
+### Desenvolvedor Frontend e UI/UX Designer - Freelancer
 
+[![Linkedin Badge](https://img.shields.io/badge/-Iuri%20Silva-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuricode/)](https://www.linkedin.com/in/iuricode/) 
+[![Gmail Badge](https://img.shields.io/badge/-iuricold99@gmail.com-986DFF?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:iuricold99@gmail.com)
 
-<h3 align="left">Achievements :</h3>
+Meu nome é Iuri Silva, ou “iuricode” (é como me chamam agora). Sou freelancer como Desenvolvedor Frontend e UI/UX Designer desde 2020. Sou extremamente apaixonado por café e cultura japonesa.
 
-  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OumaymaaGaiech" alt="OumaymaaGaiech" /></a> </p>
+Minha primeira experiência com código foi na época em que todos tinham um Wix. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-   <a href="https://symfony.com/what-is-symfony" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="DotNet" width="40" height="40"/> </a>
+**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaymaaGaiech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OumaymaaGaiech" /></p>
 
