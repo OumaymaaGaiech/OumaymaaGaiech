@@ -1,5 +1,7 @@
 <h1 align="center">Hello 👋, I'm Oumayma Gaiech.</h1> 
-<h3 align="center">Tunisian Software Engineering Student on a mission to learn and create. Join me on my journey of continuous skill acquisition and building amazing software! 🌟 </h3>
+<h3 align="center"> a freshly graduated Software Engineer with a deep passion for Artificial Intelligence and innovation. During my studies, I discovered my enthusiasm for exploring AI's capabilities and its transformative potential.
+
+I am currently seeking my first professional opportunity, ready to leverage my strong foundation in software engineering and my growing expertise in AI. My goal is to develop innovative web or mobile applications that harness the power of AI while delivering captivating UX/UI designs.🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
 <br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaGaiech" /> </p>
