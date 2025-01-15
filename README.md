@@ -11,12 +11,4 @@ Minha primeira experiência com código foi na época em que todos tinham um Wix
 
 **Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaymaaGaiech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OumaymaaGaiech" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OumaymaaGaiech&show_icons=true&locale=en&theme=tokyonight" alt="OumaymaaGaiech" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OumaymaaGaiech&&theme=tokyonight" alt="OumaymaaGaiech" /></p>
-
- 
-</p>
-
+  
