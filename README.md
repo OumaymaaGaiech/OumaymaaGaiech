@@ -1,14 +1,12 @@
-# Hello ! Iam Oumayma Gaiech
+# Hello 👋 ! Iam Oumayma Gaiech
 
 ### Software Engineer | AI enthusiast
 
 [![Linkedin Badge](https://img.shields.io/badge/-Oumayma%20Gaiech-986DFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oumayma-gaiech/)](https://www.linkedin.com/in/oumayma-gaiech/) 
 
 
-Meu nome é Iuri Silva, ou “iuricode” (é como me chamam agora). Sou freelancer como Desenvolvedor Frontend e UI/UX Designer desde 2020. Sou extremamente apaixonado por café e cultura japonesa.
+A freshly graduated Software Engineer with a deep passion for Artificial Intelligence and innovation. During my studies, I discovered my enthusiasm for exploring AI's capabilities and its transformative potential.
 
-Minha primeira experiência com código foi na época em que todos tinham um Wix. Lembro-me de tentar encontrar uma maneira de mudar a cor de fundo e ter um texto chamativo. Eu costumava passar horas tentando personalizá-lo e nem conseguia ver o tempo passar. A emoção de ter o poder de estruturar páginas por conta própria foi incrível. É como lego. Você começa peça por peça, ninguém entende o que está construindo e pronto... você tem um castelo de códigos.
-
-**Precisando de projeto novo para sua empresa? Entre em contato e vamos criar algo incrível juntos.**
+I am currently seeking my first professional opportunity, ready to leverage my strong foundation in software engineering and my growing expertise in AI. My goal is to develop innovative web or mobile applications that harness the power of AI while delivering captivating UX/UI designs.
 
   
